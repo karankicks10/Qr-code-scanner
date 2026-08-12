@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(94, 109, 92);
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.card {
+    background-color: white;
+    width: 320px;
+    padding: 16px;
+    border-radius: 20px;
+}
+
+.card img {
+    margin: 0;
+    width: 100%;
+    display: block;
+    border-radius: 10px;
+}
